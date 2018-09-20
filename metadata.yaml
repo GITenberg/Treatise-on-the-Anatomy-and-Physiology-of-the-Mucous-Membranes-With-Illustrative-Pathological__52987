@@ -7,6 +7,9 @@ contributor:
     deathdate: 1855
     gutenberg_agent_id: '47150'
     url: http://www.gutenberg.org/2009/agents/47150
+covers:
+- cover_type: archival
+  image_path: 52987-h/images/cover.jpg
 creator:
   author:
     agent_name: Bichat, Xavier
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '47149'
     url: http://www.gutenberg.org/2009/agents/47149
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52987#Treatise-on-the-Anatomy-and-Physiology-of-the-Mucous-Membranes-With-Illustrative-Pathological_
 gutenberg_issued: '2016-09-05'
 gutenberg_type: Text
 identifiers:
