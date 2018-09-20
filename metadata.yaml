@@ -1,0 +1,39 @@
+_repo: Treatise-on-the-Anatomy-and-Physiology-of-the-Mucous-Membranes-With-Illustrative-Pathological__52987
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Houlton, Joseph
+    birthdate: 1783
+    deathdate: 1855
+    gutenberg_agent_id: '47150'
+    url: http://www.gutenberg.org/2009/agents/47150
+creator:
+  author:
+    agent_name: Bichat, Xavier
+    aliases:
+    - Bichat, F.-X. (François-Xavier)
+    - Bichat, Marie François Xavier
+    - Bichat, Marie Francois Xavier
+    - Bichat, X. (Xavier)
+    birthdate: 1771
+    deathdate: 1802
+    gutenberg_agent_id: '47149'
+    url: http://www.gutenberg.org/2009/agents/47149
+description: ''
+gutenberg_issued: '2016-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52987'
+  lccn: '85665508'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Membranes (Biology)'
+- GITenberg
+title: 'Treatise on the Anatomy and Physiology of the Mucous Membranes
+
+  With Illustrative Pathological Observations'
+url: http://www.gutenberg.org/ebooks/52987
